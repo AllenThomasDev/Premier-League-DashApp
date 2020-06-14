@@ -1,0 +1,10 @@
+*.py
+*.csv
+trash/
+json/
+gwsclean/
+assets/
+.vscode/
+*.json
+.idea/
+token.pickle
